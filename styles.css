@@ -1,2 +1,21 @@
-
+tr{
+	width:70%;
+}
+td,th{
+	height:35px;
+}
+.row1{
+	background-color:red;
+	color:white;
+}
+.row2{
+	background-color:lightcoral;
+	color:white;
+}
+.row3{
+	background-color:skin;
+}
+.row4{
+	background-color:lightcyan;
+}
 /* Your CSS Code here. */
